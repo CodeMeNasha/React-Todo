@@ -13,7 +13,7 @@ We're going to practice building a stateful class component with this project. E
 
 ```js
 [
-  {
+  { 
     task: 'Organize Garage',
     id: 1528817077286,
     completed: false
